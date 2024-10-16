@@ -77,7 +77,7 @@ body{
     display: flex;
     flex-direction: column;
 }
-.paragraph-block-2-bold{
+.paragraph-block-2-bold-background-purple-1{
     font-family: "IBM Plex Mono Bold" ;
     font-size: 18px;
     font-weight: 700;
@@ -96,7 +96,7 @@ body{
     width: 648px;
     height: 244px;
 }
-.paragraph-block-2-bold-2{
+.paragraph-block-2-bold-background-purple-2{
     display: flex;
     font-family: "IBM Plex Mono Bold" ;
     font-size: 18px;
@@ -117,7 +117,31 @@ body{
     width: 648px;
     height: 244px;
 }
-
+.block-3 {
+    background-image: url(./images/cover-image-light.png);
+    display: flex;
+    flex-direction: column;
+    height: 496px;
+    padding: 0px 20px;
+    display: flex;
+}
+.paragraph-block-3-bold{
+    font-family:"IBM Plex Mono Bold";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+.paragraph-block3-bold-background-purple-1 {
+    display: flex;
+    font-family: "IBM Plex Mono Bold" ;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 130%;
+    color:#353430;
+    width: 315px;
+    height: 23px;
+    background-color:#ff8dcb;
+}
 
 
 
